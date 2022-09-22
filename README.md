@@ -24,5 +24,11 @@ How to use quiz:
 <img src="./assets/images/Capture2.PNG">
 <img src="./assets/images/Capture3.PNG">
 
+## Link 
+
+The following is the URL link to the live page:
+
+https://constantmotion1.github.io/Module4Challenge/
+
 
 
